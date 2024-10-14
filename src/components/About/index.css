@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.bg-co{
+    height: 100vh;
+    background-image:linear-gradient(to-top, lightgreen,green,);
+    background-size: cover;
+}
